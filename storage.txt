@@ -1,0 +1,4 @@
+01 python 1
+02 c 0
+03 oopj 1
+04 engligh 0
